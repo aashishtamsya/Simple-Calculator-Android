@@ -1,5 +1,8 @@
 # Simple Calculator Android
 
+![Platform](https://img.shields.io/badge/platfom-android-green.svg)
+![Programming Language](https://img.shields.io/badge/language-kotlin-yellow.svg)
+
 Simple Calculator Android App written in Kotlin.
 
 ## Table of Content
