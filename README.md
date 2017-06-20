@@ -14,7 +14,7 @@ Simple Calculator Android App written in Kotlin.
 
 ### Preview
 
-[Simple Calculator](/Resources/SimpleCalculator.gif)
+![Simple Calculator](/Resources/SimpleCalculator.gif)
 
 ## Requirements
 * [Android Studio with Kotlin Support](https://developer.android.com/studio/preview/index.html)
