@@ -36,7 +36,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
                 android:ems="10"
-                android:hint="First Number"
+                android:hint="@string/first_number_hint"
                 android:inputType="number"
                 app:layout_constraintBottom_toTopOf="@+id/actionTextView"
                 app:layout_constraintEnd_toEndOf="parent"
@@ -49,7 +49,6 @@
                 android:id="@+id/actionTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Action"
                 tools:layout_editor_absoluteX="172dp"
                 tools:layout_editor_absoluteY="72dp" />
 
@@ -61,7 +60,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginTop="16dp"
                 android:ems="10"
-                android:hint="Second Number"
+                android:hint="@string/second_number_hint"
                 android:inputType="number"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -115,7 +114,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Result"
                 tools:layout_editor_absoluteX="173dp"
                 tools:layout_editor_absoluteY="420dp" />
 
